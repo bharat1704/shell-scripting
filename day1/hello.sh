@@ -2,10 +2,10 @@
 
 # This is a script for tws
 
-echo "hello dosto"
+echo "hello Friends"
 
-echo "hello bhaiya"
+echo "This is a my first shell script"
 
-echo "ky hua"
+echo "Keep Learning"
 
-echo "kuch nahi"
+echo "Keep earning"
