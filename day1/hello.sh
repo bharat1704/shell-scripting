@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This is a script for tws
+# This is a script
 
 echo "hello Friends"
 
